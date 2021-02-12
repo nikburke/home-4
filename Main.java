@@ -7,7 +7,7 @@ public class Main {
     private static final char KRESTIK = 'X';
     private static final char NOLIK = 'O';
     private static final char PUSTO = '-';
-    private static final int TOWIN = 3;
+    private static final int TOWIN = 5;
 
     private static char[][] field = new char[SIZE_Y][SIZE_X];
 
