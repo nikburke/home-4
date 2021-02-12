@@ -115,7 +115,7 @@ public class Main {
             playerStep();
             if (checkWin(KRESTIK)) {
                 printField();
-                System.out.println("ВЫ выйграли!");
+                System.out.println("Вы выйграли!");
                 break;
             }
             if (isFuelFull()) {
